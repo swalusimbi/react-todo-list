@@ -13,16 +13,16 @@ It is basically for capturing what particular events you will be doing at a part
 ## Installation
 
 Clone the repository:<br>
-   &emsp git clone https://github.com/your-username/react-todo-list.git
+   &emsp; git clone https://github.com/your-username/react-todo-list.git
    
 Change into the project directory:<br>
-   &emsp cd react-todo-list
+   &emsp; cd react-todo-list
 
 Install the dependencies:<br>
-   &emsp npm install
+   &emsp; npm install
 
 Start the development server:<br>
-   &emsp npm run dev
+   &emsp; npm run dev
 
 ## Acknowledgments
    * [React](https://reactjs.org)
