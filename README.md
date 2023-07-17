@@ -1,4 +1,4 @@
-# React todo list
+# React-todo-list
 
 This is a simple todo list application built with React and Vite.<br>
 It is basically for capturing what particular events you will be doing at a particular date.
@@ -13,16 +13,16 @@ It is basically for capturing what particular events you will be doing at a part
 ## Installation
 
 Clone the repository:<br>
-   git clone https://github.com/your-username/react-todo-list.git
+   &emsp git clone https://github.com/your-username/react-todo-list.git
    
 Change into the project directory:<br>
-   cd react-todo-list
+   &emsp cd react-todo-list
 
 Install the dependencies:<br>
-   npm install
+   &emsp npm install
 
 Start the development server:<br>
-   npm run dev
+   &emsp npm run dev
 
 ## Acknowledgments
    * [React](https://reactjs.org)
