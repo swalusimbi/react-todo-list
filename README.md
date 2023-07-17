@@ -1,6 +1,6 @@
 # React todo list
 
-This is a simple todo list application built with React and Vite.\n 
+This is a simple todo list application built with React and Vite.<br>
 It is basically for capturing what particular events you will be doing at a particular date.
 
 ## Features
@@ -12,16 +12,16 @@ It is basically for capturing what particular events you will be doing at a part
 
 ## Installation
 
-Clone the repository:
+Clone the repository:<br>
    git clone https://github.com/your-username/react-todo-list.git
    
-Change into the project directory:
+Change into the project directory:<br>
    cd react-todo-list
 
-Install the dependencies:
+Install the dependencies:<br>
    npm install
 
-Start the development server:
+Start the development server:<br>
    npm run dev
 
 ## Acknowledgments
