@@ -13,7 +13,7 @@ It is basically for capturing what particular events you will be doing at a part
 ## Installation
 
 Clone the repository:<br>
-   &emsp; git clone https://github.com/your-username/react-todo-list.git
+   &emsp; git clone https://github.com/swalusimbi/react-todo-list.git
    
 Change into the project directory:<br>
    &emsp; cd react-todo-list
