@@ -1,22 +1,32 @@
 # React todo list
 
-This is a simple to-do list application built with React and Vite.
+This is a simple todo list application built with React and Vite.\n 
+It is basically for capturing what particular events you will be doing at a particular date.
 
 ## Features
 
-- Add new tasks to the to-do list
+- Add new actions to the to-do list
 - Mark tasks as completed
-- Delete tasks from the list
-- Filter tasks by completion status (All, Active, Completed)
-
-## Demo
-
-If you'd like to see a live demo of this project, you can find it [here](link-to-demo).
+- Delete marked tasks from the list
+- An action can not be added when the input bar is empty
 
 ## Installation
 
-1. Clone the repository:
-
-   ```shell
+Clone the repository:
    git clone https://github.com/your-username/react-todo-list.git
+   
+Change into the project directory:
+   cd react-todo-list
 
+Install the dependencies:
+   npm install
+
+Start the development server:
+   npm run dev
+
+## Acknowledgments
+   * [React](https://reactjs.org)
+   * [Vite](https://vitejs.dev)
+
+## Contact
+   If you have any questions, feel free to contact me at walusimbisilver90@gmail.com.
